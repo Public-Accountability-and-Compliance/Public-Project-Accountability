@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="en" class="has-js">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Public Accountability in Publicly Funded Construction</title>
+  <meta name="description" content="Public funds. Public trust. Public accountability. Learn obligations, transparency practices, and ways to report issues in publicly funded construction." />
+  <ttps://fonts.googleapis.com
+  https://fonts.gstatic.com
+  <!-- Typography: Inter + DM Sans (display) -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Sans:wght@600;700p
+  styles.css
+</head>
+
+<body>
+  <!-- Decorative gradients -->
+  <div class="bg-aurora aurora-top" aria-hidden="true"></div>
+  <div class="bg-aurora aurora-bottom" aria-hidden="true"></div>
+
+  <header class="site-header" role="banner">
+    <nav class="nav container" aria-label="Primary">
+      #top
+        <!-- Minimal mark -->
+        <span class="logo-mark" aria-hidden="true">◆</span>
+        <span class="logo-type">Public Accountability</span>
+      </a>
+
+      <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu">
+        <span class="sr-only">Open menu</span>
+        <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </button>
+
+      <ul id="nav-menu" class="nav-menu">
+        <li>#whyWhy Accountability</a></li>
+        <li><a href="#nsObligations</a></li>
+        <li>#checklistTransparency Checklist</a></li>
+        <li>#reportReport Issues</a></li>
+        <li>#faqFAQ</a></li>
+      </ul>
+    </nav>
+
+    <section class="hero container" id="top">
+      <div class="hero-content">
+        <h1 class="display">Public funds. Public trust. Public accountability.</h1>
+        <p class="subtitle">When contractors accept public money, they accept obligations to be transparent, compliant, and responsive to the community.</p>
+        <div class="hero-actions">
+          #obligations
+            <span class="btn-icon" aria-hidden="true">🔎</span>
+            Know your obligations
+          </a>
+          <a class="btn btn-ghost" href="#reportcon" aria-hidden="true">⚠️</span>
+            Report concerns
+          </a>
+        </div>
+      </div>
+      <!-- Hero illustration (abstract grid) -->
+      <div class="hero-art" aria-hidden="true">
+        <div class="art-grid"></div>
+      </div>
+    </section>
+  </header>
+
+  <main id="main-content">
+    <section id="why" class="section">
+      <div class="container">
+        <div class="section-head">
+          <h2>Why Accountability Matters</h2>
